@@ -27,13 +27,13 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_r0jcplm",
+        "service_q1nqtst",
         "template_1t76uxq",
         {
           form_name: form.name,
-          to_name: "Liron",
+          to_name: "Austin",
           from_email: form.email,
-          to_email: "contact@mail.com",
+          to_email: "austin.tech.space@gmail.com",
           message: form.message,
         },
         "Jqq9AvwIuSjoMiA5c"

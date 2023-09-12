@@ -135,36 +135,50 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed and maintained mobile applications for Android using Java and Kotlin, ensuring high-quality code and excellent user experiences.",
+      "Collaborated with designers and product managers to create intuitive and visually appealing interfaces.",
+      "Integrated APIs and third-party services to enhance app functionality and data retrieval.",
+      "Conducted thorough testing and debugging to identify and resolve issues, resulting in improved app stability.",
+      "Implemented responsive and adaptive designs to ensure compatibility with various screen sizes and resolutions.",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "AOW Information Technology Pvt Ltd",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Created a modern and user-friendly lead generation website using Next.js and Tailwind CSS.",
+      "Ensured the website looks great and works smoothly on all devices, from desktops to mobile phones.",
+      "Added interactive features like contact forms and buttons to engage users and generate leads.",
+      "Used Next.js to make the website load quickly and perform well, improving search engine visibility.",
+      "Streamlined the design process with Tailwind CSS, resulting in a polished and consistent look.",
+      "Integrated analytics tools to track user behavior and lead generation, providing insights for business growth.",
+      "Collaborated with marketing teams to align the website with branding and messaging strategies.",
+      "Conducted testing to fix any issues and ensure a reliable website.",
+      "Optimized the website for fast load times and better performance.",
+      "Implemented SEO best practices for improved online visibility.",
+      "Managed content updates to keep the website current and effective.",
+      "The website contributed to increased online visibility and the generation of high-quality leads for the business.",
     ],
   },
   {
-    title: "Game Developer",
+    title: "Slot-Casino Game Developer",
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Created fun and visually appealing slot-casino games using Cocos Creator and TypeScript.",
+      "Designed the spinning reels, symbols, and win calculations to make the games exciting.",
+      "Worked with a team of artists, sound designers, and testers to make the games look and sound great.",
+      "Added features like in-game purchases and bonus rounds to keep players engaged and generate revenue.",
+      "Made sure the games ran smoothly on different devices and fixed any problems quickly.",
+      "Followed rules to ensure fair gaming and responsible play.",
+      "Used player feedback and data to improve the games and keep players coming back.",
+      "Stayed updated on the latest trends in the casino gaming industry and used new ideas in our projects.",
+      "Helped the company make more money and create better games.",
     ],
   },
 ];
@@ -198,20 +212,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "UsedAutoPartsPro",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to search, book used auto parts for sale.",
     tags: [
       {
-        name: "react",
+        name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "tailwnd",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "SEO",
         color: "pink-text-gradient",
       },
     ],
@@ -245,20 +259,20 @@ const projects = [
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "cocos2dx",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "cocos creator",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://austin0721.github.io/HottestChiliGame/",
   },
 ];
 
