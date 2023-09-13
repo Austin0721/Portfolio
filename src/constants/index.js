@@ -230,7 +230,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Austin0721/UsedAutoPartsPro",
   },
   {
     name: "Jackpot World™ - FortuneTree",
@@ -251,7 +251,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/FortuneTreeGame",
   },
   {
     name: "Jackpot World™ - HottestChili",
