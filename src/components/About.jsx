@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Experienced developer with a diverse skill set, including React Native, Android app development, and game development. Proficient in mobile application design and development, with a strong understanding of user experience and software architecture.
+        Experienced developer with a diverse skill set, including React Native, Android app development and game development. Proficient in mobile application design and development, with a strong understanding of user experience and software architecture.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

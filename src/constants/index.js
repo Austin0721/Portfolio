@@ -50,12 +50,12 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Web Developer",
-    icon: backend,
-  },
-  {
     title: "Game Developer",
     icon: creator,
+  },
+  {
+    title: "Web Developer",
+    icon: backend,
   },
 ];
 
@@ -120,7 +120,7 @@ const experiences = [
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "March 2016 - Sep 2018",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -133,34 +133,13 @@ const experiences = [
     company_name: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Oct 2018 - Dec 2022",
     points: [
       "Developed and maintained mobile applications for Android using Java and Kotlin, ensuring high-quality code and excellent user experiences.",
       "Collaborated with designers and product managers to create intuitive and visually appealing interfaces.",
       "Integrated APIs and third-party services to enhance app functionality and data retrieval.",
       "Conducted thorough testing and debugging to identify and resolve issues, resulting in improved app stability.",
       "Implemented responsive and adaptive designs to ensure compatibility with various screen sizes and resolutions.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "AOW Information Technology Pvt Ltd",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Created a modern and user-friendly lead generation website using Next.js and Tailwind CSS.",
-      "Ensured the website looks great and works smoothly on all devices, from desktops to mobile phones.",
-      "Added interactive features like contact forms and buttons to engage users and generate leads.",
-      "Used Next.js to make the website load quickly and perform well, improving search engine visibility.",
-      "Streamlined the design process with Tailwind CSS, resulting in a polished and consistent look.",
-      "Integrated analytics tools to track user behavior and lead generation, providing insights for business growth.",
-      "Collaborated with marketing teams to align the website with branding and messaging strategies.",
-      "Conducted testing to fix any issues and ensure a reliable website.",
-      "Optimized the website for fast load times and better performance.",
-      "Implemented SEO best practices for improved online visibility.",
-      "Managed content updates to keep the website current and effective.",
-      "The website contributed to increased online visibility and the generation of high-quality leads for the business.",
     ],
   },
   {
@@ -179,6 +158,27 @@ const experiences = [
       "Used player feedback and data to improve the games and keep players coming back.",
       "Stayed updated on the latest trends in the casino gaming industry and used new ideas in our projects.",
       "Helped the company make more money and create better games.",
+    ],
+  },
+  {
+    title: "Web Developer",
+    company_name: "AOW Information Technology Pvt Ltd",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "Jan 2023 - Apr 2023",
+    points: [
+      "Created a modern and user-friendly lead generation website using Next.js and Tailwind CSS.",
+      "Ensured the website looks great and works smoothly on all devices, from desktops to mobile phones.",
+      "Added interactive features like contact forms and buttons to engage users and generate leads.",
+      "Used Next.js to make the website load quickly and perform well, improving search engine visibility.",
+      "Streamlined the design process with Tailwind CSS, resulting in a polished and consistent look.",
+      "Integrated analytics tools to track user behavior and lead generation, providing insights for business growth.",
+      "Collaborated with marketing teams to align the website with branding and messaging strategies.",
+      "Conducted testing to fix any issues and ensure a reliable website.",
+      "Optimized the website for fast load times and better performance.",
+      "Implemented SEO best practices for improved online visibility.",
+      "Managed content updates to keep the website current and effective.",
+      "The website contributed to increased online visibility and the generation of high-quality leads for the business.",
     ],
   },
 ];
@@ -233,20 +233,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Jackpot World™ - FortuneTree",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Slot Casino game.",
     tags: [
       {
-        name: "react",
+        name: "cocos2dx",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "cocos creator",
         color: "pink-text-gradient",
       },
     ],
@@ -254,9 +254,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Jackpot World™ - HottestChili",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Slot Casino game. Coins on each rell 1,2 and 3 trigger Chilli Fortune Feature. Jackpot will be multiplied in Jackpot Feature.",
     tags: [
       {
         name: "cocos2dx",
