@@ -235,7 +235,7 @@ const projects = [
   {
     name: "Jackpot World™ - FortuneTree",
     description:
-      "Slot Casino game.",
+      "Slot Casino game. 3 or more SCATTERs trigger free games. WILD substitutes for all other symbols and may trigger Jackpot game.",
     tags: [
       {
         name: "cocos2dx",
